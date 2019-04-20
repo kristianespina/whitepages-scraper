@@ -2,9 +2,7 @@
 Target Website: [www.whitepages.com.au](whitepages.com.au)
 
 ## What this does
-```
 Given a list of 11,000 addresses and names, their phone numbers are retrieved from the locations that matched a set criteria of name and address
-```
 
 ## How to use
 ```bash
